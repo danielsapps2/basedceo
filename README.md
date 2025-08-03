@@ -27,14 +27,14 @@ The official website for BASED CEO - the most based memecoin on Base Chain.
 
 ## 🚀 Live Demo
 
-Visit the live website: [basedceo-website.github.io](https://YOUR_USERNAME.github.io/basedceo-website/)
+Visit the live website: [iamdanielbryant.github.io/basedceo](https://iamdanielbryant.github.io/basedceo/)
 
 ## 📱 Local Development
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/basedceo-website.git
-cd basedceo-website
+git clone https://github.com/iamdanielbryant/basedceo.git
+cd basedceo
 ```
 
 2. Open `index.html` in your browser or use a local server:
