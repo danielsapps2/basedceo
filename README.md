@@ -1,13 +1,13 @@
 # BASED CEO 🚀
 
-The official website for BASED CEO - the most based memecoin on Base Chain.
+The official website for BASED CEO - the most based memecoin on Solana.
 
 ## 🌟 Features
 
 - **Animated Hero Section** - Floating particles and interactive CEO portrait
 - **Scroll Animations** - Smooth animations triggered on scroll
 - **Responsive Design** - Mobile-optimized layout
-- **Base Chain Integration** - Built for the Base ecosystem
+- **Solana Integration** - Built for the Solana ecosystem
 - **Interactive Elements** - Hover effects, twinkling stars, and smooth transitions
 
 ## 🎨 Sections
@@ -58,4 +58,4 @@ MIT License - feel free to use this code for your own projects.
 
 ---
 
-**BASED CEO** - For the Base Community, by the Base Community 💎
+**BASED CEO** - For the Solana Community, by the Solana Community 💎
